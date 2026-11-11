@@ -1,0 +1,12 @@
+{
+  "base_url": "https://your-provider.example/v1",
+  "model": "请填写控制台的模型ID，不是页面展示名称",
+  "api_key": "",
+  "max_requests": 160,
+  "max_output_tokens": 1500,
+  "max_metric_calls": 40,
+  "max_cost_cny": 10.0,
+  "input_cny_per_million": null,
+  "output_cny_per_million": null,
+  "timeout_seconds": 90
+}

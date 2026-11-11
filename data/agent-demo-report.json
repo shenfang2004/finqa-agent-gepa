@@ -1,0 +1,9 @@
+[
+  {
+    "id": "synthetic-agent-demonstration",
+    "question": "What is the revenue growth rate from 2022 to 2023?",
+    "pre_text": ["This is a synthetic demonstration report, not a real company's financial statement. Revenue amounts in the table are in millions."],
+    "table": [["Year", "Revenue"], ["2022", "100"], ["2023", "120"]],
+    "post_text": []
+  }
+]

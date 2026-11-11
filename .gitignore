@@ -1,0 +1,33 @@
+# Local credentials and virtual environments
+/.env
+/.env.*
+/config.local.json
+/config.*.local.json
+*.key
+*.pem
+/.venv/
+/venv/
+
+# Generated experiment data, logs, and checkpoints
+/runs/
+/agent-runs/
+/local-logs/
+/work/
+/data/*
+!/data/agent-demo-report.json
+*.log
+*.jsonl
+*.pkl
+*.bin
+*.tmp
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
